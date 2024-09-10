@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Windroid</string>
+    <string name="accessibility_service_description">This service allows remote control of the device.</string>
+    <string name="start_screen_capture">Start Screen Capture</string>
+
+</resources>
